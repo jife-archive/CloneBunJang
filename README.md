@@ -1,7 +1,12 @@
 #  번개장터 클론 코딩 3/4 ~ 3/17
 
-:dog2:개발일지
+API 명세서 : https://docs.google.com/spreadsheets/d/17IACgoVHJp02sp9a8zlwbc5Ki6c_NUKmpPFjw3nY6Ys/edit#gid=0
 
+
+<details>
+<summary>:dog2:개발일지
+</summary>
+<div markdown="1">
 <details>
 <summary>3월4일(토)</summary>
 <div markdown="1">
@@ -246,5 +251,9 @@ https://user-images.githubusercontent.com/114370871/222976257-1ae6de9c-a591-4102
  - API연동...
  
  느낀점: 다끝나가는상황에서 이제야 자신감이 붙는다... 학교생활과 병행하니 많이힘들지만, 나름 보람차다 2일정도만 더 있었더라면 모든API르 연동하고 UI르 더 많이 구현 할 수 있었을텐데.. 아쉬움이 남는다! 수료할 수 있겠지?ㅠㅠ 이번 라이징캠프에 참가하면서 처음 스위프트르 다루었는데.. 2달만에 자신감이 붙었다! 아자!
+</div>
+</details>
+
+
 </div>
 </details>
