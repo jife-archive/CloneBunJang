@@ -1,8 +1,7 @@
 #  번개장터 클론 코딩 3/4 ~ 3/17
 
 API 명세서 : https://docs.google.com/spreadsheets/d/17IACgoVHJp02sp9a8zlwbc5Ki6c_NUKmpPFjw3nY6Ys/edit#gid=0
-
-
+시연영상:https://drive.google.com/drive/folders/1B3vrp-f-FGkaZnzP88Ht0erU59bCO82u?usp=share_link
 <details>
 <summary>:dog2:개발일지
 </summary>
