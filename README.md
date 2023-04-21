@@ -1,4 +1,4 @@
-#  번개장터 클론 코딩 3/4 ~ 3/17
+#  번개장터 클론 코딩 3/4 ~ 3/17(우수수료)
 
 API 명세서 : https://docs.google.com/spreadsheets/d/17IACgoVHJp02sp9a8zlwbc5Ki6c_NUKmpPFjw3nY6Ys/edit#gid=0
 
